@@ -2,9 +2,9 @@ import React from 'react';
 import Project from './Project';
 import project1 from '../../assets/imgs/photo/Project1.jpg';
 import project2 from '../../assets/imgs/photo/Project2.jpg';
-import project3 from '../../assets/imgs/photo/Weather Dashboard.png';
+import project3 from '../../assets/imgs/photo/Screen Shot 2023-06-24 at 11.46.32 AM.png';
 import project4 from '../../assets/imgs/photo/Screen Shot 2023-06-24 at 11.26.27 AM.png';
-//import project5 from '../../';
+import project5 from '../../assets/imgs/photo/Screen Shot 2023-06-24 at 11.50.29 AM.png';
 //import project6 from '../../';
 
 //array of project objects
@@ -49,10 +49,10 @@ const projects = [
     id: 4,
     name: "",
     description: "JavaScript/CSS",
-    //img: project5,
-    alt: "",
-    url: "",
-    github: "",
+    img: project5,
+    alt: "Picture of the Workcday Scheduler",
+    url: "https://goldie369.github.io/Work-Day-Scheduler/",
+    github: "https://github.com/Goldie369/Work-Day-Scheduler",
 },
 {
     key: 5,
