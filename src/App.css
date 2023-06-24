@@ -1,0 +1,39 @@
+@import url('https://use.typekit.net/eok4ndp.css');
+
+@font-face {
+  font-family: "Xefore-vp34";
+  src: url("../src/assets/font/Xefora-vp34.ttf");
+ }
+#root {
+  font-family: "Xefore-vp34";
+  src: url("../src/assets/font/Xefora-vp34.ttf");
+  font-size: 4.0vh;
+  font-weight: 400;
+  font-style: normal; 
+  color: white;
+}
+.root{
+  background-image: url("./assets/imgs/photo/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkyOS1hZXctMzBfMS5qcGc.jpg.webp");
+  background-size: 100%;
+  color: white !important;
+  opacity: 95%;
+}
+
+.header-name {
+  font-family: "Xefore-vp34";
+  src: url("../src/assets/font/Xefora-vp34.ttf");
+  font-size: 9vh;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* remove list bullets throughout the app */
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: 'pink';
+}
+
+
