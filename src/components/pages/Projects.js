@@ -30,7 +30,7 @@ const projects = [
 {
     id: 2,
     name: "Weater Dashboard",
-    description: "Javascript/YoutubeAPI/GoogleFonts",
+    description: "Javascript/WeatherAPI/GoogleFonts",
     img: project3,
     alt: "Picture of the Weater Dashboard",
     url: "https://goldie369.github.io/Weather-Dashboard/",
@@ -39,7 +39,7 @@ const projects = [
 {
     id: 3,
     name: "",
-    description: "Node/Express/MySQL",
+    description: "Node/Express",
     img: project4,
     alt: "Picture of the Note Taker App",
     url: "https://goldie-note-taker.herokuapp.com",
@@ -47,7 +47,7 @@ const projects = [
 },
 {
     id: 4,
-    name: "",
+    name: "Work Day Scheduler",
     description: "JavaScript/CSS",
     img: project5,
     alt: "Picture of the Workcday Scheduler",
