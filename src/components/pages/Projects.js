@@ -12,7 +12,7 @@ const projects = [
     {
       key: 0,
       name: "The Passion of Greens",
-      description: "MERN",
+      description: "JavaScript/RecepieApi/Bulma",
       img: project1,
       alt: "Picture of The Passion of greens",
       url: "https://the-passion-of-the-greens.github.io/The-Passion-Of-The-Greens/",
