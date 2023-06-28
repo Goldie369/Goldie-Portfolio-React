@@ -36,5 +36,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+
+  },
+  "homepage": "https://goldie369.github.io/Goldie-Portfolio-React/"
+
   }
-}
+
