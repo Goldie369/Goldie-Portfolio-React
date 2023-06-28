@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Goldie-Portfolio-React/static/css/main.b8532331.css",
+    "main.js": "/Goldie-Portfolio-React/static/js/main.2ebc3f33.js",
+    "static/media/Screen Shot 2023-06-24 at 11.46.32 AM.png": "/Goldie-Portfolio-React/static/media/Screen Shot 2023-06-24 at 11.46.32 AM.61dc927a4a7d39df0146.png",
+    "static/media/Project1.jpg": "/Goldie-Portfolio-React/static/media/Project1.7cf1549cef9df7243267.jpg",
+    "static/media/profile-pic.jpeg": "/Goldie-Portfolio-React/static/media/profile-pic.bdba234c34c4f88798b4.jpeg",
+    "static/media/Screen Shot 2023-06-24 at 11.50.29 AM.png": "/Goldie-Portfolio-React/static/media/Screen Shot 2023-06-24 at 11.50.29 AM.874c55b7de484e19224e.png",
+    "static/media/Screen Shot 2023-06-24 at 11.26.27 AM.png": "/Goldie-Portfolio-React/static/media/Screen Shot 2023-06-24 at 11.26.27 AM.4e0a6368e227f1560a0c.png",
+    "static/media/Project2.jpg": "/Goldie-Portfolio-React/static/media/Project2.abcabf7165f5c349a0fe.jpg",
+    "static/media/Resume.pdf": "/Goldie-Portfolio-React/static/media/Resume.6bbc3ba50c2fb5c07f52.pdf",
+    "static/media/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkyOS1hZXctMzBfMS5qcGc.jpg.webp": "/Goldie-Portfolio-React/static/media/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkyOS1hZXctMzBfMS5qcGc.jpg.ee1d35563f089b859dd3.webp",
+    "static/media/Xefora-vp34.ttf": "/Goldie-Portfolio-React/static/media/Xefora-vp34.071ac41de82cfcb029db.ttf",
+    "index.html": "/Goldie-Portfolio-React/index.html",
+    "main.b8532331.css.map": "/Goldie-Portfolio-React/static/css/main.b8532331.css.map",
+    "main.2ebc3f33.js.map": "/Goldie-Portfolio-React/static/js/main.2ebc3f33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8532331.css",
+    "static/js/main.2ebc3f33.js"
+  ]
+}
