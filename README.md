@@ -50,5 +50,10 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
         <a href="#resources">Resources</a>
     </li>
   </ul>
+
+  ## Demo
+
+You can check out my portfolio by following [this link.](https://https://goldie369.github.io/Goldie-Portfolio-React//)
+
 ## Resources
 - 
