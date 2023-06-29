@@ -55,5 +55,14 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 You can check out my portfolio by following [this link.](https://https://goldie369.github.io/Goldie-Portfolio-React//)
 
+
+## Questions
+
+If you have any questions regarding this project, please don't hesitate to contact me using my email address: zlatelinarizova@gmail.com. You can find my project repositories here: [Goldie369](https://github.com/Goldie369/Goldie-Portfolio-React).
+
 ## Resources
-- 
+- [Best README Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+- [Bootstrap](https://getbootstrap.com/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://react.dev/)
+- [How to Link an Image in React](https://codingbeautydev.com/blog/react-link-image/#:~:text=To%20link%20a%20local%20image,prop%20of%20an%20img%20element.&text=Linking%20and%20displaying%20an%20image,tool%20like%20Create%20React%20App.)
