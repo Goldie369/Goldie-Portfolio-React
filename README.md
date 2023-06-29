@@ -53,7 +53,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
   ## Demo
 
-You can check out my portfolio by following [this link.](https://https://goldie369.github.io/Goldie-Portfolio-React)
+You can check out my portfolio by following [this link.](https://goldie369.github.io/Goldie-Portfolio-React)
 
 
 ## Questions
