@@ -5,7 +5,7 @@ import project2 from '../../assets/imgs/photo/Project2.jpg';
 import project3 from '../../assets/imgs/photo/Screen Shot 2023-06-24 at 11.46.32 AM.png';
 import project4 from '../../assets/imgs/photo/Screen Shot 2023-06-24 at 11.26.27 AM.png';
 import project5 from '../../assets/imgs/photo/Screen Shot 2023-06-24 at 11.50.29 AM.png';
-//import project6 from '../../';
+import project6 from '../../assets/imgs/photo/Picture1.png ';
 
 //array of project objects
 const projects = [
